@@ -75,7 +75,7 @@ const device_desc models[] = {
     { V_CORSAIR, P_K70_MK2SE, },
     { V_CORSAIR, P_K70_MK2LP, },
     { V_CORSAIR, P_K70_TKL_OPTICAL, },
-	{ V_CORSAIR, P_K70_TKL_MECHANICAL, },
+    { V_CORSAIR, P_K70_TKL_MECHANICAL, },
     { V_CORSAIR, P_K90_LEGACY, },
     { V_CORSAIR, P_K95, },
     { V_CORSAIR, P_K95_LEGACY, },
